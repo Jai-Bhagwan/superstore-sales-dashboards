@@ -225,6 +225,6 @@ excel-sales-dashboard/
 
 📧 Email: **jjangir836@gmail.com**
 
-💼 LinkedIn: **https://www.linkedin.com/in/jai-bhagwan-4454b1419/**
+💼 LinkedIn: **(https://www.linkedin.com/in/jai-bhagwan-3a0891214/)**
 
 ⭐ **If you found this project useful, don't forget to give it a Star!**
